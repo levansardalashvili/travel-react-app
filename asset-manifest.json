@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/travel-react-app/static/css/main.ab93ea10.css",
+    "main.js": "/travel-react-app/static/js/main.bc482879.js",
+    "static/media/image-1.jpg": "/travel-react-app/static/media/image-1.99fa5c4baed4ce7d1634.jpg",
+    "static/media/bg.jpg": "/travel-react-app/static/media/bg.0489df1498f81ada713e.jpg",
+    "static/media/hello-bg.jpg": "/travel-react-app/static/media/hello-bg.b66f06a7b0e0f9a2581d.jpg",
+    "static/media/image-2.jpg": "/travel-react-app/static/media/image-2.ea6b1652c79c6f38d90f.jpg",
+    "static/media/image-3.jpg": "/travel-react-app/static/media/image-3.6cfd9cb6377c6b9ed152.jpg",
+    "index.html": "/travel-react-app/index.html",
+    "main.ab93ea10.css.map": "/travel-react-app/static/css/main.ab93ea10.css.map",
+    "main.bc482879.js.map": "/travel-react-app/static/js/main.bc482879.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab93ea10.css",
+    "static/js/main.bc482879.js"
+  ]
+}
